@@ -30,8 +30,11 @@ The dataset contains 31 columns (1 target, 30 features). Key findings:
 
 Statistical summary revealed distributions and correlations between features and target:
 
-![Correlation Matrix](media/image1.png)
-![Top Correlated Features](media/image2.png)
+![Correlation Matrix](https://github.com/user-attachments/assets/a8cba770-fd04-4891-b0cf-3a976d88b884)
+
+
+![Top Correlated Features](![image](https://github.com/user-attachments/assets/92969118-5019-4971-b3bb-26c505a94175)
+)
 
 ## Data Preprocessing
 1. Declared target (diagnosis) and features
