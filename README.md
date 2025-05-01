@@ -33,7 +33,7 @@ Statistical summary revealed distributions and correlations between features and
 ![Correlation Matrix](https://github.com/user-attachments/assets/a8cba770-fd04-4891-b0cf-3a976d88b884)
 
 
-![Top Correlated Features](![image](https://github.com/user-attachments/assets/92969118-5019-4971-b3bb-26c505a94175)
+![Top Correlated Features](https://github.com/user-attachments/assets/92969118-5019-4971-b3bb-26c505a94175)
 )
 
 ## Data Preprocessing
